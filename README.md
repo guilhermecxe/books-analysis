@@ -5,6 +5,6 @@ Este projeto contém meus códigos para análise, limpeza e formatação de dado
 ## Projetos
 
 ### Pulitzer Cleaning
-(arquivo pulitzer_cleaning.ipynb)
+(arquivo `pulitzer_cleaning.ipynb`)
 
 Esta é uma análise exploratória e de limpeza de uma planilha contendo informações sobre livros indicados ao Prêmio Pulitzer.
